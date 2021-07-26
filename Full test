@@ -2,24 +2,9 @@
 
 #EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK:------|ENTERTAINMENT|-------------------------------
 
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| RTE ONE
-http://rv.flysat.live:80/307211610366/307211610366/79839
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| RTE TWO
-http://rv.flysat.live:80/307211610366/307211610366/79838
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA ONE
-http://rv.flysat.live:80/307211610366/307211610366/79837
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA TWO
-http://rv.flysat.live:80/307211610366/307211610366/79836
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA THREE
-http://rv.flysat.live:80/307211610366/307211610366/79835
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| TG4
-http://rv.flysat.live:80/307211610366/307211610366/79834
-
 http://rv.flysat.live:80/307211610366/307211610366/167936
 #EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|--- UK ---|",UK: BBC ONE
 http://rv.flysat.live:80/307211610366/307211610366/167934
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|--- UK ---|",UK: BBC ONE *
-http://rv.flysat.live:80/307211610366/307211610366/167933
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="|--- UK ---|",UK: ITV
 http://rv.flysat.live:80/307211610366/307211610366/167928
 
@@ -42,8 +27,6 @@ http://rv.flysat.live:80/307211610366/307211610366/167784
 http://rv.flysat.live:80/307211610366/307211610366/167783
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y 1
 http://rv.flysat.live:80/307211610366/307211610366/167781
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y  2
-http://rv.flysat.live:80/307211610366/307211610366/167780
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y ATLANTIC
 http://rv.flysat.live:80/307211610366/307211610366/167779
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y LIVING
@@ -52,6 +35,11 @@ http://rv.flysat.live:80/307211610366/307211610366/167778
 http://rv.flysat.live:80/307211610366/307211610366/167777
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y ARTS
 http://rv.flysat.live:80/307211610366/307211610366/167776
+#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: SKY WITNESS
+http://rv.flysat.live:80/307211610366/307211610366/167743
+
+#EXTINF:0 tvg-id="ext" group-title="UK:------|MOVIES|",UK:------|ENTERTAINMENT|-------------------------------
+
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y MOVIES PREMIER
 http://rv.flysat.live:80/307211610366/307211610366/167775
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y MOVIES ACTION & ADVENTURE
@@ -81,16 +69,11 @@ http://rv.flysat.live:80/307211610366/307211610366/167763
 http://rv.flysat.live:80/307211610366/307211610366/167762
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS NEWS
 http://rv.flysat.live:80/307211610366/307211610366/167761
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS NEWS *
-http://rv.flysat.live:80/307211610366/307211610366/167760
+
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS MAIN EVENT
 http://rv.flysat.live:80/307211610366/307211610366/167759
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS MAIN EVENT *
-http://rv.flysat.live:80/307211610366/307211610366/167758
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS PREMIER LEAGUE
 http://rv.flysat.live:80/307211610366/307211610366/167757
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS PREMIER LEAGUE *
-http://rv.flysat.live:80/307211610366/307211610366/167756
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS ACTION
 http://rv.flysat.live:80/307211610366/307211610366/167755
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS ARENA
@@ -99,24 +82,12 @@ http://rv.flysat.live:80/307211610366/307211610366/167754
 http://rv.flysat.live:80/307211610366/307211610366/167753
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS MIX
 http://rv.flysat.live:80/307211610366/307211610366/167752
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS CRICKET (HD)
-http://rv.flysat.live:80/307211610366/307211610366/167751
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS CRICKET *SD*
-http://rv.flysat.live:80/307211610366/307211610366/167750
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS F1
 http://rv.flysat.live:80/307211610366/307211610366/167749
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS F1 *
-http://rv.flysat.live:80/307211610366/307211610366/167748
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS F1 **
-http://rv.flysat.live:80/307211610366/307211610366/167747
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS FOOTBALL
 http://rv.flysat.live:80/307211610366/307211610366/167746
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: S-K-Y SPORTS / GBI  RACING
 http://rv.flysat.live:80/307211610366/307211610366/167745
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: SKY SPORT NHL HD
-http://rv.flysat.live:80/307211610366/307211610366/167744
-#EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: SKY WITNESS
-http://rv.flysat.live:80/307211610366/307211610366/167743
 #EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|--- UK ---|",UK: BT SPORT / ESPN
 http://rv.flysat.live:80/307211610366/307211610366/167742
 #EXTINF:0 tvg-id="BTSport1.uk" group-title="|--- UK ---|",UK: BT SPORT 1
@@ -133,10 +104,6 @@ http://rv.flysat.live:80/307211610366/307211610366/167737
 http://rv.flysat.live:80/307211610366/307211610366/167736
 #EXTINF:0 tvg-id="FreeSports.uk" group-title="|--- UK ---|",UK: FREE SPORTS
 http://rv.flysat.live:80/307211610366/307211610366/167727
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="|--- UK ---|",UK: RACING UK
-http://rv.flysat.live:80/307211610366/307211610366/167726
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="|--- UK ---|",UK: RACING UK HD
-http://rv.flysat.live:80/307211610366/307211610366/167725
 #EXTINF:0 tvg-id="BoxNation.uk" group-title="|--- UK ---|",UK: BOX NATION
 http://rv.flysat.live:80/307211610366/307211610366/167724
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: FIGHTBOX
@@ -151,6 +118,5 @@ http://rv.flysat.live:80/307211610366/307211610366/167720
 http://rv.flysat.live:80/307211610366/307211610366/167719
 #EXTINF:0 tvg-id="ext" group-title="|--- UK ---|",UK: SUPERSPORT 5
 http://rv.flysat.live:80/307211610366/307211610366/167718
-
 #EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="|--- UK ---|",UK: LFCTV
 http://rv.flysat.live:80/307211610366/307211610366/167715
