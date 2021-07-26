@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK:------|ENTERTAINMENT|-------------------------------
+
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK001:3E
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2956
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK007:BBC 1 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2950
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK008:BBC 2 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2949
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK194:BBC 3 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28865
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK010:BBC 4 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2947
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK025:Channel 4
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2932
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK026:Channel 5
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2931
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK051:ITV 1
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2906
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK052:ITV 2
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2905
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK053:ITV 3
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2904
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK054:ITV 4
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2903
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK065:UTV
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2892
+
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK090:Sky One
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2867
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK100:Sky Two
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28959
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK199:Virgin Media 1
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28860
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK200:Virgin Media 2
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28859
+#EXTINF:0 tvg-id="ext" group-title="UK:------|ENTERTAINMENT|",UK201:Virgin Media 3
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28858
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK:------|SPORT|---------------------------------------
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/60643
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK014:BT Sport 1 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2943
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK015:BT Sport 2 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2942
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK016:BT Sport 3 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2941
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK017:BT Sport ESPN FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2940
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK040:Euro Sport 1 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2917
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK041:Euro Sport 2 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2916
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK055:Sky Sports Arena HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2902
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK076:Sky Sports MainEvent HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2881
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK077:Sky Sports Action HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2880
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK078:Sky Sports Cricket HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2879
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK079:Sky Sports Golf HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2878
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK080:Sky Sports PremierLeague HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2877
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK081:Sky Sports F1 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2876
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2871
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK087:Sky Sports Football HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2870
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK089:Eir Sport 1 FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/2868
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK235:EIR SPORTS 2 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28824
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK101:Sky Sports Action FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28958
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK105:Setanta Sports 1
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28954
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK110:LFC TV SD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28949
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK113:Eurosport 1 FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28946
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK112:Eurosport 2 FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28947
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK106:Premiere Sport HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28953
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK117:Sky Sports Premier League SD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28942
+
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK125:Premier Sports HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28934
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK144:Premier Sports 2
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28915
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK141:BeIN Sports 1 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28918
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK142:BeIN Sports 2 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28917
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK143:BeIN Sports 3 HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28916
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK203:Boxnation HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28856
+
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK248: CELTIC TV (LIVE MATCHES ONLY
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK259:Liverpool FC TV
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28800
+#EXTINF:0 tvg-id="ext" group-title="UK:------|SPORT|",UK319:Sky Sports Action FHD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/28740
