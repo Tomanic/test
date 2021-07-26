@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="|USA|",------|USA|------
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3168
+
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",USA:-----|GENERAL|--------------------------------
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/60607
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US001:A&E HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3167
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US006:AMC HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3162
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US007:Animal Planet HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3161
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US008:BBC America HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3160
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US010:BET HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3158
+#EXTINF:0 tvg-id="ext" group-title="USA:-----|GENERAL|",US011:BRAVO HD
+http://much02.cularu.com:8880/wsy2y016/yJN4xhAmJj/3157
