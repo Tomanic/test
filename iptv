@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:0,group,UK | Sky Sports
+ext,Sky Sports News UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222609
+#EXTINF:0,SkySportsNews.uk,Sky Sports News FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222625
+ext,Sky Sports Main Event UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222616
+#EXTINF:0,SkySpMainEv.uk,Sky Sports Main Event FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222623
+ext,Sky Sports Premier League UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222617
+#EXTINF:0,SkySpPL.uk,Sky Sports Premier League FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222627
+ext,Sky Sports Football UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222614
+#EXTINF:0,SkySpFball.uk,Sky Sports Football FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222621
+ext,Sky Sports Action (NFL) UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222610
+#EXTINF:0,ext,Sky Sports Action (NFL) FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222626
+ext,Sky Sports Arena (Darts) UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222611
+#EXTINF:0,ext,Sky Sports Arena (Darts) FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222618
+ext,Sky Sports Cricket UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222612
+#EXTINF:0,SkySpCricket.uk,Sky Sports Cricket FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222619
+ext,Sky Sports Golf UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222615
+#EXTINF:0,SkySpTheOpen.uk,Sky Sports Golf FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222622
+ext,Sky Sports F1 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222613
+#EXTINF:0,SkySportsF1.uk,Sky Sports F1 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222620
+ext,Sky Sports Mix UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222608
+#EXTINF:0,SkySpMix.uk,Sky Sports Mix FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222624
+ext,Sky Sports Racing UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222607
+#EXTINF:0,ext,Sky Sports Racing FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222628
+group,UK | BT Sports
+#EXTINF:0,ext,BT Sport 1 (50 FPS),http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222645
+ext,BT Sport 1 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222630
+#EXTINF:0,BTSport1.uk,BT Sport 1 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222641
+ext,BT Sport 2 (50 FPS),http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222646
+#EXTINF:0,ext,BT Sport 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222631
+BTSport2.uk,BT Sport 2 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222642
+#EXTINF:0,ext,BT Sport 3 (50 FPS),http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222647
+ext,BT Sport 3 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222632
+#EXTINF:0,BTSport3.uk,BT Sport 3 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222643
+ext,BT Sport ESPN (50 FPS),http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/290497
+#EXTINF:0,ext,BT Sport ESPN UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222633
+BTSportESPN.uk,BT Sport ESPN FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222644
+#EXTINF:0,ext,BT Sport Mosaic HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222640
+ext,BT Sport Extra 1 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222634
+#EXTINF:0,ext,BT Sport Extra 1 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222649
+ext,BT Sport Extra 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222635
+#EXTINF:0,ext,BT Sport Extra 2 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222650
+ext,BT Sport Extra 3 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222636
+#EXTINF:0,ext,BT Sport Extra 3 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222651
+ext,BT Sport Extra 4 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222637
+#EXTINF:0,ext,BT Sport Extra 4 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222652
+ext,BT Sport Extra 5 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222638
+#EXTINF:0,ext,BT Sport Extra 5 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222653
+ext,BT Sport Extra 6 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222639
+#EXTINF:0,ext,BT Sport Extra 6 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222654
+group,UK | Sports 
+#EXTINF:0,ext,Eurosport 1 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293729
+esp-hd,Eurosport 1 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223299
+#EXTINF:0,esp-hd,Eurosport 1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293728
+ext,Eurosport 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293730
+#EXTINF:0,esp2-hd,Eurosport 2 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223300
+esp2-hd,Eurosport 2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/265684
+#EXTINF:0,ext,Premier Sport UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223290
+ext,Premier Sport FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/282088
+#EXTINF:0,ext,Premier Sport 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223291
+ext,Premier Sports 2 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/282148
+#EXTINF:0,ext,Free Sports UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223292
+ext,Free Sports FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/318719
+#EXTINF:0,ext,Box Nation UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/264109
+BoxNationHD.uk,Box Nation FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/277057
+#EXTINF:0,ext,Eir Sport UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223288
+ext,Eir Sport FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223276
+#EXTINF:0,ext,Eir Sport 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223289
+eirSport2.ie,Eir Sport 2 FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223277
+#EXTINF:0,ext,Eleven Sport UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223297
+ext,Eleven Sport 2 UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223298
+#EXTINF:0,ext,La Liga TV UHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/274045
+CanalPlusLiga.es,La Liga TV FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223296
+#EXTINF:0,SportyStuff.uk,SportyStuff FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/271259
+ext,Virgin Media Sports FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223287
+#EXTINF:0,ext,Virgin Media Sports Extra 1,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223281
+ext,Virgin Media Sports Extra 2,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223282
+#EXTINF:0,ext,Virgin Media Sports Extra 3,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223283
+ext,Virgin Media Sports Extra 4,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223284
+#EXTINF:0,ext,Virgin Media Sports Extra 5,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223285
+ext,Virgin Media Sports Extra 6,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223286
+#EXTINF:0,ext,PDC Darts Board 1,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252264
+ext,PDC Darts Board 2,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252265
+#EXTINF:0,ext,PDC Darts 1,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252266
+ext,PDC Darts 2,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252267
+#EXTINF:0,ext,UFC FIGHT Night Pass,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252712
+ext,UFC FIGHT Pass,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252
+#EXTINF:0,group,beIN Sports
+ext,beIN Sports 1 English FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251226
+#EXTINF:0,ext,beIN Sports 1 English HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/285004
+ext,beIN Sports 1 English,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251238
+#EXTINF:0,ext,beIN Sports 2 English FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251227
+ext,beIN Sports 2 English HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/285003
+#EXTINF:0,ext,beIN Sports 2 English,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251239
+ext,beIN Sports 3 English FHD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251228
+#EXTINF:0,ext,beIN Sports 3 English HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/285002
+ext,beIN Sports 3 English,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251253
+#EXTINF:0,ext,beIN La Liga TV,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251229
+ext,beIN Sports Canada,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251236
+#EXTINF:0,beINSPORTS.us,beIN Sports USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251230
+ext,beIN Sports 4 USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251231
+#EXTINF:0,ext,beIN Sports 5 USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251232
+ext,beIN Sports 6 USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251233
+#EXTINF:0,ext,beIN Sports 7 USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251234
+ext,beIN Sports 8 USA,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251235
+#EXTINF:0,beINSPORTSenespanol.us,beIN Sports En Espanol,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/251237
+group,DAZN
+#EXTINF:0,ext,Live | DAZN 01 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223315
+ext,Live | DAZN 02 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223316
+#EXTINF:0,ext,Live | DAZN 03 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223317
+ext,Live | DAZN 04 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223318
+#EXTINF:0,ext,Live | DAZN 05 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223319
+ext,Live | DAZN 06 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223320
+#EXTINF:0,ext,Live | DAZN 07 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223321
+ext,Live | DAZN 08 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223322
+#EXTINF:0,ext,Live | DAZN 09 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223323
+ext,Live | DAZN 10 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223324
+#EXTINF:0,ext,Live | DAZN 11 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223325
+ext,Live | DAZN 12 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223326
+#EXTINF:0,ext,Live | DAZN 13 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223327
+ext,DAZN CA 1,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252804
+#EXTINF:0,ext,DAZN CA 2,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252805
+ext,DAZN CA 3,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252806
+#EXTINF:0,ext,DAZN CA 4,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252807
+ext,DAZN CA 5,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252808
+#EXTINF:0,ext,DAZN CA 6,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252809
+ext,DAZN CA 7,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252810
+#EXTINF:0,ext,DAZN CA 8,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252811
+ext,DAZN CA 9,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252812
+#EXTINF:0,ext,DAZN CA 10,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252813
+ext,DAZN CA 11,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252814
+#EXTINF:0,ext,DAZN CA 12,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252815
+ext,DAZN CA 13,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252816
+#EXTINF:0,ext,DAZN CA 14,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252817
+ext,DAZN CA 15,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252818
+#EXTINF:0,ext,DAZN CA 16,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252819
+ext,DAZN CA 17,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252820
+#EXTINF:0,ext,DAZN CA 18,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252821
+ext,DAZN CA 19,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252822
+#EXTINF:0,ext,DAZN CA 20,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252823
+ext,DAZN CA 21,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252824
+#EXTINF:0,ext,DAZN CA 22,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252825
+ext,DAZN CA 23,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252826
+#EXTINF:0,ext,DAZN CA 24,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252827
+ext,DAZN CA 25,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252828
+#EXTINF:0,ext,DAZN CA 26,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252829
+ext,DAZN CA 27,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252830
+#EXTINF:0,ext,DAZN CA 28,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252831
+ext,DAZN CA 29,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252832
+#EXTINF:0,ext,DAZN CA 30,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252833
+ext,DAZN CA 31,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252834
+#EXTINF:0,ext,DAZN CA 32,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252835
+ext,DAZN CA 33,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252836
+#EXTINF:0,ext,DAZN CA 34,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252837
+ext,DAZN CA 35,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252838
+#EXTINF:0,ext,DAZN CA 36,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252839
+ext,DAZN CA 37,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252840
+#EXTINF:0,ext,DAZN CA 38,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252841
+ext,DAZN CA 39,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252842
+#EXTINF:0,ext,DAZN CA 40,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/252843
+ext,Dazn 01,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222906
+#EXTINF:0,ext,Dazn 02,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222907
+ext,Dazn 03,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222908
+#EXTINF:0,ext,Dazn 04,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222909
+ext,Dazn 05,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222910
+#EXTINF:0,ext,Dazn 06,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222911
+ext,Dazn 07,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222912
+#EXTINF:0,ext,Dazn 08,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222913
+ext,Dazn 09,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222914
+#EXTINF:0,ext,Dazn 10,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222915
+ext,Dazn 11,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222916
+#EXTINF:0,ext,Dazn 12,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222917
+ext,Dazn 13,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222918
+#EXTINF:0,group,Live ⚽️ | Premier League
+ext,PL01.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222629
+#EXTINF:0,ext,PL02.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222655
+ext,PL03.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/222691
+#EXTINF:0,ext,PL04.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223622
+ext,PL05.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223623
+#EXTINF:0,ext,PL06.,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/223624
+group,Ireland | GAAGO TV / Irish Premier
+#EXTINF:0,ext,NIFL 10:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291841
+ext,NIFL 09:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291842
+#EXTINF:0,ext,NIFL 08:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291843
+ext,NIFL 07:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291844
+#EXTINF:0,ext,NIFL 06:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291845
+ext,NIFL 05:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291846
+#EXTINF:0,ext,NIFL  4:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291847
+ext,NIFL  3:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291848
+#EXTINF:0,ext,NIFL02:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291849
+ext,NIFL01:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291850
+#EXTINF:0,ext,LOI 30:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291851
+ext,LOI 29:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291852
+#EXTINF:0,ext,LOI 28:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291853
+ext,LOI 27:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291854
+#EXTINF:0,ext,LOI 26:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291855
+ext,LOI 25:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291856
+#EXTINF:0,ext,LOI 24:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291857
+ext,LOI 23:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291858
+#EXTINF:0,ext,LOI 22:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291859
+ext,LOI 21:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291860
+#EXTINF:0,ext,LOI 20:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291861
+ext,LOI 19:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291862
+#EXTINF:0,ext,LOI 18:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291863
+ext,LOI 17:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291864
+#EXTINF:0,ext,LOI 16:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291865
+ext,LOI 15:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291866
+#EXTINF:0,ext,LOI 14:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291867
+ext,LOI 13:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291868
+#EXTINF:0,ext,LOI 12:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291869
+ext,LOI 11:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291870
+#EXTINF:0,ext,LOI 10:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291871
+ext,LOI 9:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291872
+#EXTINF:0,ext,LOI 8:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291873
+ext,LOI 7:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291874
+#EXTINF:0,ext,LOI 6:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291875
+ext,LOI 5:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291876
+#EXTINF:0,ext,LOI 4:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291877
+ext,LOI 3:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291878
+#EXTINF:0,ext,LOI 2:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291879
+ext,LOI 1:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291880
+#EXTINF:0,ext,IRE: GAA15:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291881
+ext,IRE: GAA14:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291882
+#EXTINF:0,ext,IRE: GAA13:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291883
+ext,IRE: GAA12:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291884
+#EXTINF:0,ext,IRE: GAA11:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291885
+ext,IRE: GAA10:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291886
+#EXTINF:0,ext,IRE: GAA09:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291887
+ext,IRE: GAA08:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291888
+#EXTINF:0,ext,IRE: GAA07:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291889
+ext,IRE: GAA06:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291890
+#EXTINF:0,ext,IRE: GAA05:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291891
+ext,IRE: GAA04:,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291892
+#EXTINF:0,ext,IRE: GAA03: Donegal v Derry 4PM,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291893
+ext,IRE: GAA02: Kerry Minors v Roscommon Minors 2.30PM,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291894
+#EXTINF:0,ext,IRE: GAA01: Leitrim v Mayo 2PM,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/291895
+group,UK | 720p Sport Movies & Entertainment
+#EXTINF:0,BTSport1.uk,BT Sports 1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293596
+BTSport2.uk,BT Sports 2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293597
+#EXTINF:0,BTSport3.uk,BT Sports 3 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293598
+BTSportESPN.uk,BT Sports ESPN HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293599
+#EXTINF:0,SkySportsNews.uk,Sky Sports News HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293607
+SkySpMainEv.uk,Sky Sports Main Event HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293605
+#EXTINF:0,SkySpPL.uk,Sky Sports Premier League HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293609
+SkySpFball.uk,Sky Sports Football HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293603
+#EXTINF:0,SkySpAction.uk,Sky Sports Action HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293608
+SkySpArena.uk,Sky Sports Arena HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293600
+#EXTINF:0,SkySpCricket.uk,Sky Sports Cricket HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293601
+SkySportsF1.uk,Sky Sports F1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293602
+#EXTINF:0,SkySpTheOpen.uk,Sky Sports Golf HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293604
+SkySpMix.uk,Sky Sports Mix HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293606
+#EXTINF:0,ext,Sky Sports Racing HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293610
+ext,EIR Sports 1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293628
+#EXTINF:0,eirSport2.ie,EIR Sports 2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293629
+esp-hd,Eurosport 1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293630
+#EXTINF:0,esp2-hd,Eurosport 2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293631
+ext,FreeSports HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293634
+#EXTINF:0,LiverpoolFCTV.uk,Liverpool FC TV HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293640
+ext,Premier Sports 1 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293646
+#EXTINF:0,ext,Premier Sports 2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293647
+ext,Racing TV HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293649
+#EXTINF:0,BBCOneHD.uk,BBC One HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293613
+BBC2.uk,BBC Two HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293616
+#EXTINF:0,ITV1London.uk,ITV HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293636
+ITV2.uk,ITV2 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293637
+#EXTINF:0,ITV3.uk,ITV3 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293638
+ITV4.uk,ITV4 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293639
+#EXTINF:0,Channel4.uk,Channel 4 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293620
+E4.uk,E4 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293627
+#EXTINF:0,Film4.uk,Film4 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293632
+More4.uk,More4 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293641
+#EXTINF:0,Channel5.uk,Channel 5 HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293621
+Sky1.uk,Sky One HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293671
+#EXTINF:0,SkyAtlantic.uk,Sky Atlantic HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293653
+Alibi.uk,Alibi HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293611
+#EXTINF:0,BBCNews.nws,BBC News HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293612
+BBC1Scotland.uk,BBC One Scotland HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293614
+#EXTINF:0,BBC1Scotland.uk,BBC Scotland HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293615
+Boomerang.uk,Boomerang HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293617
+#EXTINF:0,cartoon,Cartoon Network HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293618
+CBBC.uk,CBBC HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293619
+#EXTINF:0,ComedyCentral.uk,Comedy Central HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293622
+CrimeAndInvestigation.nl,Crime+Investigation,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293623
+#EXTINF:0,Dave.uk,Dave HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293624
+discov_rus-hd,Discovery HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293625
+#EXTINF:0,E.uk,E! HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293626
+fox-hd,Fox HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293633
+#EXTINF:0,GOLD.uk,Gold HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293635
+natgeo_hd,National Geographic HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293642
+#EXTINF:0,wild-hd,National Geographic Wild HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293643
+NickJrHD.us,Nick Jr HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293644
+#EXTINF:0,nickelod-hd,Nickelodeon HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293645
+ext,Quest HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293648
+#EXTINF:0,RTE1.ie,RTE One HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293650
+RTE2.ie,RTE Two HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293651
+#EXTINF:0,SkyArts1.uk,Sky Arts HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293652
+SkyMoviesComedy.uk,Sky Comedy HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293665
+#EXTINF:0,SkyCrime.de,Sky Crime HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293666
+ext,Sky Documentaries HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293667
+#EXTINF:0,History.it,Sky History HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293668
+SkyNature.uk,Sky Nature HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293669
+#EXTINF:0,SkyNews.uk,Sky News HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293670
+SkyLiving.uk,Sky Witness HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293672
+#EXTINF:0,SCIFI.uk,SYFY HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293673
+UTV.uk,UTV HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293674
+#EXTINF:0,W.uk,W HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293675
+SkyMoviesPremiere.uk,Sky Cinema Premiere HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293661
+#EXTINF:0,SkyMoviesActionThriller.uk,Sky Cinema Action HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293654
+ext,Sky Cinema Animation HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293655
+#EXTINF:0,SkyMoviesComedy.uk,Sky Cinema Comedy HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293656
+SkyMoviesDrama.uk,Sky Cinema Drama HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293657
+#EXTINF:0,SkyMoviesFamily.uk,Sky Cinema Family HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293658
+SkyBrits.uk,Sky Cinema Greats HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293659
+#EXTINF:0,SkyCinemaHits.uk,Sky Cinema Hits HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293660
+ext,Sky Cinema ScFi/Horror HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293662
+#EXTINF:0,SkyMoviesIndie.uk,Sky Cinema Select HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293663
+SkyCinemaThriller.de,Sky Cinema Thriller HD,http://livepulse2.uk:8080/5V8sHuMuC6/Hb9apjU8U6/293664
